@@ -1,4 +1,4 @@
-Program Contoh_3b;
+Program simple;
 Uses CRT;
 Type bulat = Integer;
 pecahan = Real;
