@@ -1,7 +1,7 @@
 Program Contoh_3b;
 Uses CRT;
 Type bulat = Integer;
-pecahan = Real;
+pecahan = string;
 var x : bulat;
 y : pecahan;
 Label Ulang;
